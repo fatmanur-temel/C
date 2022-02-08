@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604407451 source:c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\exercise17_5\main.cpp
+	<iostream>
+	"Complex.h"
+
+1604406637 c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\exercise17_5\include\complex.h
+
+1604407132 source:c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\exercise17_5\src\complex.cpp
+	<iostream>
+	"Complex.h"
+
+1604407451 source:c:\users\user\desktop\c kodlari\exercise17_5\exercise17_5\main.cpp
+	<iostream>
+	"Complex.h"
+
+1604406637 c:\users\user\desktop\c kodlari\exercise17_5\exercise17_5\include\complex.h
+
+1604407132 source:c:\users\user\desktop\c kodlari\exercise17_5\exercise17_5\src\complex.cpp
+	<iostream>
+	"Complex.h"
+

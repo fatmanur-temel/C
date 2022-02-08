@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1604405970 source:c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\exercise17_11\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1604405370 c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\exercise17_11\include\rectangle.h
+
+1604405694 source:c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\exercise17_11\src\rectangle.cpp
+	"Rectangle.h"
+
+1604405970 source:c:\users\user\desktop\c kodlari\exercise17_11\exercise17_11\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1604405370 c:\users\user\desktop\c kodlari\exercise17_11\exercise17_11\include\rectangle.h
+
+1604405694 source:c:\users\user\desktop\c kodlari\exercise17_11\exercise17_11\src\rectangle.cpp
+	"Rectangle.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602853770 source:c:\users\user\desktop\c kodlarý\gets_vs_scanf\main.c
+	<stdio.h>
+	<stdlib.h>
+

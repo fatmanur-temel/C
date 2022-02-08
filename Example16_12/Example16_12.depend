@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603352183 source:c:\users\user\desktop\c kodlari\example16_12\main.cpp
+	<iostream>
+	"Account.h"
+
+1603351454 c:\users\user\desktop\c kodlari\example16_12\include\account.h
+
+1603351852 source:c:\users\user\desktop\c kodlari\example16_12\src\account.cpp
+	"Account.h"
+	<iostream>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603353914 source:c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\example16_13\main.cpp
+	<iostream>
+	"Invoice.h"
+
+1603354206 c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\example16_13\include\invoice.h
+	<string>
+
+1603353592 source:c:\users\selenayas\onedrive - ceng.ktu.edu.tr\dersler\2020-2021 güz\object oriented programming\lecture examples\example16_13\src\invoice.cpp
+	"Invoice.h"
+
+1603353914 source:c:\users\user\desktop\c kodlari\example16_13\main.cpp
+	<iostream>
+	"Invoice.h"
+
+1603354206 c:\users\user\desktop\c kodlari\example16_13\include\invoice.h
+	<string>
+
+1603353592 source:c:\users\user\desktop\c kodlari\example16_13\src\invoice.cpp
+	"Invoice.h"
+

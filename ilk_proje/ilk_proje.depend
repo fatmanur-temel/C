@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614702533 source:c:\users\user\desktop\c kodlari\ilk_proje\main.cpp
+	<iostream>
+	<string>
+
+1610734483 source:c:\users\user\desktop\c kodlari\ilk_proje\hayvan.cpp
+	"Hayvan.h"
+
+1610752410 c:\users\user\desktop\c kodlari\ilk_proje\hayvan.h
+	<iostream>
+
